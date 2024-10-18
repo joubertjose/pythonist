@@ -1,5 +1,5 @@
 '''
-Author:nigga
+Author:joubert jose
 Date:18-10-2024
 Description: program that asks the user to input their name and age.
 After receiving the input, display a message that includes the user's name and age.
