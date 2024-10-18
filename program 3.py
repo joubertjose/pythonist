@@ -1,3 +1,9 @@
+'''
+Author:Joubert Jose
+Date:18-10-2024
+Description:program that demonstrates the usage of arithmetic,
+comparison, and logical operators. Perform a few operations and print the results.
+'''
 number1 =int(input("Enter the first number:"))
 number2 =int(input("Enter the second number:"))
 print("sum=",number1+number2,",Division=",number1/number2)
